@@ -1,0 +1,24 @@
+{
+  "name": "MateMatcher",
+  "version": "1.0.0",
+  "description": "Dating App using Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FyperTheViper/MateMatcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FyperTheViper/MateMatcher/issues"
+  },
+  "homepage": "https://github.com/FyperTheViper/MateMatcher#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
