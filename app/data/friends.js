@@ -1,19 +1,39 @@
-// Format
+let friends = [
 
-// {
-//     "name":"Ahmed",
-//     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-//     "scores":[
-//         5,
-//         1,
-//         4,
-//         4,
-//         5,
-//         1,
-//         2,
-//         5,
-//         4,
-//         1
-//       ]
-//   }
+ {
+     "name":"Ra Man",
+     "photo":"https://cdn.acidcow.com/pics/20121211/things_some_people_do_10.jpg",
+     "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+       ]
+   },
+   {
+   name: "Patrick Star",
+   photo: "https://3.bp.blogspot.com/-5GlDZygFWCM/TzZI9RdAqbI/AAAAAAABCjo/Xjirc9VzS4k/s1600/Funny+Face+Picture+(138).jpg",
+   score: [
+       3,
+       1,
+       4,
+       1,
+       4,
+       3,
+       5,
+       1,
+       5,
+       4		
+   ]
+}
+
+];
+
+module.exports = friends;
   
